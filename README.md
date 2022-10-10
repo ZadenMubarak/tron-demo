@@ -4,6 +4,17 @@
 ` all packs are built in python, c, c++`
 
 
+``` 
+this package can be used for human like robots, or animal like robots
+
+
+the robot's built using this project will store everything in their memory on ipfs
+
+
+```
+
+
+
 ```py
 
     window = tk.Tk()
